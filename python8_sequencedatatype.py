@@ -1,5 +1,5 @@
 # sequence data type
-# It is snon mutable
+# It is snon mutable string 
 string= "My name is sagar"
 print("The string data type is non mutable data type",string)
 
@@ -61,7 +61,7 @@ print("the value of the digit",string.isdigit())
 
 # isspace
 # if all the character of the string are whitespaces
-print("The valueof the string is ",string.myspace())
+print("The valueof the string is ",string.isspace())
 
 # is alphanumeric()
 print("the valuer of the alpha numeric", string.isalnum())

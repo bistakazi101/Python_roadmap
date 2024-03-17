@@ -15,7 +15,7 @@ print(tuple1)
 
 
 # acessing list 
-my1=[1,2,("name","sagar",1,2)]
+my1=[1,4,("name","sagar",1,2)]
 print(type(my1))
 my1[0]=100
 print(my1)
